@@ -16,7 +16,8 @@ The project is intentionally kept simple, with no input fields, so new learners 
 - Keeps a live tally of votes for each candidate.
 
 - Displays the current winner or declares a tie.
-
+  
+- link : https://celo-sepolia.blockscout.com/address/0x9aA4f2cab61Bb8E33F9B19d8a39B540B43ccC66F
 ## ✨ Features
 
 ✅ Beginner-friendly Solidity code (no complex logic)
