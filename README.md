@@ -1,4 +1,4 @@
-🗳️ VoteKing
+# 🗳️ VoteKing
 A simple and beginner-friendly voting DApp smart contract built with Solidity
 📖 Project Description
 
@@ -7,17 +7,17 @@ It allows users to cast one vote for one of two fixed candidates — Alice or Bo
 
 The project is intentionally kept simple, with no input fields, so new learners can easily deploy and interact with it using Remix IDE or other Ethereum development tools.
 
-⚙️ What It Does
+## ⚙️ What It Does
 
-Lets anyone vote for one of two candidates: Alice or Bob.
+- Lets anyone vote for one of two candidates: Alice or Bob.
 
-Prevents users from voting more than once using a mapping.
+- Prevents users from voting more than once using a mapping.
 
-Keeps a live tally of votes for each candidate.
+- Keeps a live tally of votes for each candidate.
 
-Displays the current winner or declares a tie.
+- Displays the current winner or declares a tie.
 
-✨ Features
+## ✨ Features
 
 ✅ Beginner-friendly Solidity code (no complex logic)
 
